@@ -1,0 +1,1 @@
+This example demonstrates a potential pitfall in Groovy related to null values and operator overloading. The `myMethod` function intends to add two numbers, but it doesn't handle nulls gracefully, leading to unexpected results.  The solution shows a more robust approach.
